@@ -1,6 +1,6 @@
 {
   "name": "Vibez",
-  "description": "All-rounder super social app combining TikTok & Instagram reels, advanced video editing studio, X & Threads microblogging with polls, WeChat moments, and WhatsApp messenger with voice notes and lucky red packets.",
+  "description": "All-in-one social ecosystem featuring trending spotlight clips, community threads, daily circles, creative studio with Bezier speed curves, and direct messaging with voice notes.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
