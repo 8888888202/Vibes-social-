@@ -1,0 +1,6 @@
+{
+  "name": "Vibez",
+  "description": "All-rounder super social app combining TikTok & Instagram reels, advanced video editing studio, X & Threads microblogging with polls, WeChat moments, and WhatsApp messenger with voice notes and lucky red packets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
